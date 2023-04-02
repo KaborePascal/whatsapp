@@ -1,0 +1,500 @@
+.aaa {
+    position: relative;
+    bottom: 8px;
+    left: 300px;
+    margin: 15px;
+    margin-left: 20px;
+    align-items: 50px;
+text-decoration: none;
+    color: black;
+    font-weight:bolder;
+    
+    
+
+
+}
+body{
+    background-color: antiquewhite;
+}
+    header nav button {
+        margin-left: 10px;
+     background-color: rgb(9, 207, 9);
+     border: rgb(9, 207, 9);
+     border: solid 0px;
+     border-radius: 20px;
+     width: 100px;
+     height: 35px;
+
+    }
+.logowhatsapp {
+    width: 150px;
+    height: 30px;
+
+}
+.bjr{
+position: relative;
+bottom: 750px;
+left: 700px;
+width: 500px;
+height: 45px;
+}
+.tasse{
+    position: relative;
+    bottom:600px;
+    left: 300px;
+
+}
+.vocal{
+    position: relative;
+    bottom: 800px;
+    left: 750px;
+    width: 450px;
+    height: 70px;
+ 
+}
+.filles{
+    position: relative;
+    bottom: 530px;
+    left: 300px;
+    width: 35%;
+
+}
+.voyage{
+    position: relative;
+    bottom: 500px;
+    left: 750px;
+}
+.text{
+    font-size: 80px;
+    color: aliceblue;
+   position: relative;
+   bottom: 600px;
+   left: 70px;
+}
+.messages{
+    position: relative;
+    bottom:  660px;
+    left: 80px;
+   font-size: 25px;
+   
+}
+.tele{
+    position: relative;
+    bottom: 700px;
+    left: 80px;
+}
+.frais{
+    position: relative;
+    bottom: 450px;
+    left: 800px;
+}
+.im2{
+    border-radius: 25px;
+}
+.im13{
+    position: relative;
+    bottom: 600px;
+    width: 1300px;
+    height: 200px;
+}
+.monde{
+    position: relative;
+    bottom: 600px;
+    color: black;
+    font-size: 45px;
+
+left: 300px;
+}
+.im14{
+    position: relative;
+    bottom: 600px;
+    width: 1300px;
+    height: 200px;
+}
+.videos{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-size: 60px;
+}
+.groupe{
+    position: relative;
+    bottom: 500px;
+    color: black;
+    font-size: 20px;
+}
+.im16{
+    position: relative;
+    bottom: 1000px;
+    width: 360px;
+    height: 700px;
+    left: 600px 
+}
+.plus{
+    position: relative;
+    bottom: 1180px;
+    color: black;
+    font-size: 20px;
+    text-decoration: underline chartreuse;
+    right: 380px;
+}
+
+.divi{
+    background-color: black;
+     height: 900px;
+     width: 100%;
+    position: relative;
+    bottom: 1000px;
+}
+
+.im17{
+position: relative;
+bottom: 1800px;
+}
+.discutez{
+    position: relative;
+bottom: 2525px;
+left: 700px;
+font-size: 50px;
+
+}
+.lib{
+color: chartreuse;
+}
+.vosmessages{
+    font-size: small;
+    position: relative;
+    bottom: 2590px;
+    left: 700px;
+}
+.savoir{
+position: relative;
+bottom: 2640px;
+left: 700px;
+font-size: 15px;
+color: aliceblue;
+text-decoration:underline chartreuse;
+
+}
+.quecemessage{
+    position: relative;
+    bottom: 2200px;
+    color: black;
+    font-size: 20px;
+}.gardez{
+    color: black;
+    position: relative;
+    bottom:2100px;
+}
+.sav{
+    position: relative;
+bottom: 2250px;
+left: 1px;
+font-size: 15px;
+color: rgb(8, 8, 8);
+text-decoration:underline chartreuse;
+}
+.im19{
+    position: relative;
+    top: 625px;
+    left: -30px;
+
+
+}
+.im20{
+    position: relative;
+    top: 700px;
+    left: 350px;
+}
+.im21{
+    position: relative;
+    right: 500px;
+}
+.im22{
+    position: relative;
+    top: 400px;
+}
+.dites{
+    position: absolute;
+    bottom: 1500px;
+    left: 600px;
+    font-size:80px ;
+    color: black;
+
+}
+.ex{
+    color: black;
+    position: absolute;
+    bottom: 1450px;
+    left: 600px;
+    font-size: 18px;
+   
+}
+.savo{
+    position: absolute;
+    bottom: 1400px;
+    left: 600px;
+    font-size: 15px;
+    color: rgb(8, 8, 8);
+    text-decoration:underline chartreuse; 
+}
+    .bz{
+        position: absolute;
+        bottom: 1200px;
+        right: 880px;
+        width: 300px;
+        height: 150;
+    }
+    .im25{
+        position: absolute;
+    bottom: -30px;
+    right: 400px;
+    }
+    .trans{
+        color: black;
+        position: absolute;
+        bottom: 300px;
+        
+    }
+    .wb{
+        position: absolute;
+        bottom: -5210px;
+        left: 90px;
+    }
+    .ar{
+        bottom: 5px;
+        background-color: azure;
+        height: 500px;
+        width: 1300px;
+        border: 25px;
+       
+        
+    }
+    .contact{
+        font-size: 80px;
+        position: absolute;
+        bottom: -6300px;
+    }
+
+.desk{
+    position: relative;
+    bottom: 300px;
+    left: 800px;
+    font-size: 30px;
+}    
+.com{
+    position: relative;
+    bottom: 300px;
+    left: 800px;
+
+}
+.rec{
+    background-color: rgb(11, 10, 10);
+        height: 500px;
+        width: 1300px;
+        border: 25px;
+        position: relative;
+        bottom: 15px;
+}
+.wh{
+    position: relative;
+    bottom: 495px;
+
+}
+.lir{
+    position: relative;
+    bottom: 820px;
+    left: 800px;
+
+}
+.nm{
+  color: aliceblue;
+  position: relative;
+    bottom: 560px;
+    left: 280px;
+
+}
+.qs{
+    color: aliceblue;
+  position: relative;
+    bottom: 598px;
+    left: 480px;
+}
+.uw{
+  
+    color: aliceblue;
+  position: relative;
+    bottom: 633px;
+    left: 700px;  
+}
+.bd{
+    color: aliceblue;
+  position: relative;
+    bottom: 665px;
+    left: 900px;   
+}
+.f{
+    color: aliceblue;
+    position: relative;
+    bottom: 665px;
+    left: 275px; 
+    text-decoration: none;
+}
+
+.b{
+    color: aliceblue;
+    position: relative;
+    bottom: 650px;
+    left: 275px; 
+    text-decoration: none;
+}
+.t{
+    color: aliceblue;
+    position: relative;
+    bottom: 640px;
+    left: 265px; 
+    text-decoration: none;   
+}
+.wb{
+    color: aliceblue;
+    position: relative;
+    bottom: 620px;
+    left: 265px; 
+    text-decoration: none;   
+}
+.ap{
+    color: aliceblue;
+    position: relative;
+    bottom: 740px;
+    left: 478px; 
+    text-decoration: none;
+}
+.and{
+    color: aliceblue;
+    position: relative;
+    bottom: 740px;
+    left: 640px; 
+    text-decoration: none;
+}
+.nc{
+    color: aliceblue;
+    position: relative;
+    bottom: 740px;
+    left: 780px; 
+    text-decoration: none;
+}
+.em{
+    color: aliceblue;
+    position: relative;
+    bottom: 700px;
+    left: 260px; 
+    text-decoration: none;
+}
+.iph{
+    color: aliceblue;
+    position: relative;
+    bottom: 700px;
+    left: 430px; 
+    text-decoration: none;
+}
+.cd{
+    color: aliceblue;
+    position: relative;
+    bottom: 700px;
+    left: 570px; 
+    text-decoration: none;   
+}
+.esm{
+    color: aliceblue;
+    position: relative;
+    bottom: 670px;
+    left:65px; 
+    text-decoration: none;
+}
+.mac{
+    color: aliceblue;
+    position: relative;
+    bottom: 670px;
+    left:196px; 
+    text-decoration: none;  
+}
+.corona{
+    color: aliceblue;
+    position: relative;
+    bottom: 670px;
+    left:330px; 
+    text-decoration: none;
+}
+.conf{
+    color: aliceblue;
+    position: relative;
+    bottom: 630px;
+    left: -170px; 
+    text-decoration: none;
+}
+.ww{
+    color: aliceblue;
+    position: relative;
+    bottom: 630px;
+    left: -60px; 
+    text-decoration: none;
+}
+.av{
+    color: aliceblue;
+    position: relative;
+    bottom: 630px;
+    left: 30px; 
+    text-decoration: none;
+}
+.twt{
+height: 50px;
+width: 40px;
+position: relative;
+bottom: 600px;
+left: 400px;
+}
+.ytb{
+    height: 50px;
+    width: 40px;
+    position: relative;
+    bottom: 600px;
+    left: 400px; 
+}
+.im29{
+    height: 50px;
+    width: 40px;
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.im28{
+    height: 50px;
+    width: 40px;
+    position: relative;
+    bottom: 600px;
+    left: 400px;
+}
+.deux{
+    position: relative;
+    bottom: 600px;
+    color: aliceblue;
+
+}
+.cu{
+    position: relative;
+    bottom: 636px;
+    left: 200px;
+    color: aliceblue; 
+}
+
+.fr{
+    
+    border-style: solid;
+    border-color: rgb(2, 0, 0);
+    text-decoration: none;
+    color: aliceblue;
+    position: relative;
+    left: 900px;
+    bottom: 600px;
+}
+
